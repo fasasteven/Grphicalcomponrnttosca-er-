@@ -1,0 +1,6 @@
+{
+  "name": "GeoAttend",
+  "description": "Smart Geofenced & Biometric Attendance System with course creation, real-time 2m radius validation, facial verification, passcode/barcode scan, and single-device security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
